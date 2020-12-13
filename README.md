@@ -2,7 +2,7 @@
 
 ## 專案介紹 ##
 
-本專案為Python網頁爬蟲，爬取[Yahoo奇摩股市](https://tw.stock.yahoo.com/)網站的美股大盤行情圖表資料，包含「美股指數」、「成交量」及「時間」，並且整合Pandas套件，將Python網頁爬蟲取得的圖表資料存入Pandas DataFrame，呈現爬取的結果，可以搭配[[Python爬蟲教學]該學會的Python網頁爬蟲取得網頁圖表數據方法](https://www.learncodewithmike.com/2020/12/scraping-web-charts-with-python.html)部落格文章來進行學習。
+本專案為Python網頁爬蟲，爬取[Yahoo奇摩股市](https://tw.stock.yahoo.com/)網站的美股大盤行情圖表資料，包含「美股指數」、「成交量」及「時間」，並且整合Pandas套件，將Python網頁爬蟲取得的圖表資料存入Pandas DataFrame，呈現爬取的結果，可以搭配[[Python爬蟲教學]你該學會的Python網頁爬蟲取得網頁圖表數據方法](https://www.learncodewithmike.com/2020/12/scraping-web-charts-with-python.html)部落格文章來進行學習。
 
 ## 前置作業 ##
 
